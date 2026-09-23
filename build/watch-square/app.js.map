@@ -1,1 +1,0 @@
-{"version":3,"file":"app.js","sources":["../../src/app.ux"],"sourcesContent":["<script>\n  export default {\n    onCreate() {}\n  }\n</script>\n"],"names":["$app_script$1411120752","onCreate"],"mappings":";;;;;;AACE,MAAAA,yBAAe;AAAA,EACbC,WAAW;AAAA,EAAC;AAChB;;;;;;","debugId":"8c0d0f4b-969e-4250-bb9d-de66a1e4f8bd"}
