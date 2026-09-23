@@ -1,0 +1,33 @@
+{
+  "package": "com.sci.g2048",
+  "name": "2048星域",
+  "versionName": "1.0.0",
+  "versionCode": 1,
+  "appCategory": [
+    "games"
+  ],
+  "icon": "/assets/images/logo.png",
+  "features": [
+    {
+      "name": "blueos.storage.storage"
+    }
+  ],
+  "deviceTypeList": [
+    "watch",
+    "watch-square"
+  ],
+  "config": {
+    "designWidth": 466
+  },
+  "router": {
+    "entry": "pages/Index",
+    "pages": {
+      "pages/Index": {
+        "component": "index"
+      }
+    }
+  },
+  "display": {
+    "backgroundColor": "#04060c"
+  }
+}
